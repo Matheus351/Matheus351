@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Matheus351/Matheus351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center"><b>Hi , I'm Matheus Valença </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About me:
+
+- Student of Systems Analysis and Development
+- Currently focused on Front-end technologies
+- Resilient and I don't give up easily
+- Passionate about music, games and JavaScript
+
+<br>
+
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheus351&show_icons=true&theme=dark&line_height=40"/> </a>
