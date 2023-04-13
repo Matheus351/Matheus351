@@ -5,7 +5,12 @@
 <ul>
   <li>Movix web app:<a href="https://movix-web-movie-app.vercel.app/">https://movix-web-movie-app.vercel.app/<a/></li>
 <ul/>
-
+<br>
+<p>My Data Science projects:<p/>  
+ <ul>
+  <li><a href="https://github.com/Matheus351/KNN-previsao-de-digitos/blob/main/KNN_previsao_digitos.ipynb">Previsão de dígitos com KNN</a></li>
+   <li><a href="https://github.com/Matheus351/AED-da-loja-Olist/blob/main/Projeto_Ana%CC%81lise_Explorato%CC%81ria_de_Dados_da_loja_Olist.ipynb">Análise exploratória de dados da loja Olist</a></li>
+<ul/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matheus__valenca) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-matheus-valença-13b730226) 
