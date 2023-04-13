@@ -10,6 +10,7 @@
  <ul>
   <li><a href="https://github.com/Matheus351/KNN-previsao-de-digitos/blob/main/KNN_previsao_digitos.ipynb">Previsão de dígitos com KNN</a></li>
    <li><a href="https://github.com/Matheus351/AED-da-loja-Olist/blob/main/Projeto_Ana%CC%81lise_Explorato%CC%81ria_de_Dados_da_loja_Olist.ipynb">Análise exploratória de dados da loja Olist</a></li>
+   <li><a href="https://github.com/Matheus351/Machine-Learning-sistema-de-recomendacao/blob/main/Projeto_Machine_Learning_sistema_recomendacoes.ipynb">Machine Learning - Movie recommendation System</a></li>
 <ul/>
 
 ## 🌐 Socials:
