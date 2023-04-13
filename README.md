@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center"><b>Hi , I'm Matheus Valença </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1><br><br>- Student of Systems Analysis and Development<br>- Currently focused on Front-end technologies<br>- Resilient and I don't give up easily<br>- Passionate about music, games and JavaScript<br><br><br>
+<h1 align="center"><b>Hi , I'm Matheus Valença </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1><br><br>- Student of Systems Analysis and Development<br>- Currently focused on Data analysis and Front-end technologies<br>- Resilient and I don't give up easily<br>- Passionate about music, games and JavaScript<br><br><br>
 
 <p>My projects in deployment:<p/>
 <ul>
