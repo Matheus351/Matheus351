@@ -1,11 +1,7 @@
 # 💫 About Me:
-<h1 align="center"><b>Hi , I'm Matheus Valença </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1><br><br>- Student of Systems Analysis and Development<br>- Currently focused on Front-end technologies<br>- Resilient and I don't give up easily<br>- Passionate about music, games and JavaScript<br><br><br>
+<h1 align="center"><b>Hi , I'm Matheus Valença </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-<p>My projects in deployment:<p/>
-<ul>
-  <li>Movix web app:<a href="https://movix-web-movie-app.vercel.app/">https://movix-web-movie-app.vercel.app/<a/></li>
-<ul/>
-<br>
+### Desenvolvedor full stack com conhecimento em desenvolvimento de aplicações web robustas e escaláveis. Habilidades em React JS, Typescript e tecnologias backend como Node.js e NestJS. Experiência com bancos de dados relacionais e não relacionais, incluindo PostgreSQL, Neo4j e Redis. Conhecimento em ORMs como TypeORM, Prisma e Sequelize. Apaixonado por resolver problemas e contribuir em equipes ágeis.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matheus__valenca) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-matheus-valença-13b730226) 
